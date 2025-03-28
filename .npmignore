@@ -3,7 +3,6 @@
 /.storybook
 /demo
 /public
-/src
 /storybook-static
 /use-cases
 .nvmrc
